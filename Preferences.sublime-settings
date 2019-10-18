@@ -1,0 +1,57 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Themes/neon-customized/NeonCustom.tmTheme",
+	"diff.inserted": "#000",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		"Vendor",
+		"wwwroot",
+		"webroot_",
+		".meteor/local",
+		".em_",
+		".git",
+		".tmp_",
+		".sass-cache",
+		"bower_components",
+		"pedemeia2",
+		"estore",
+		"storefront_",
+		"pdm",
+		"node_modules",
+		"vendord",
+		"ui-library_",
+		"grunt_",
+		"build_",
+		"dist_",
+		"gulp_",
+		"*.map",
+		".htaccess"
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_round"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"mini_diff": "false",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"theme": "Cyanide.sublime-theme",
+	"word_wrap": "false"
+}

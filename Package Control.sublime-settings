@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
+		"ApplySyntax",
+		"ayu",
+		"Babel",
+		"Blame Explorer",
+		"BracketHighlighter",
+		"EditorConfig",
+		"Emmet",
+		"ESLint",
+		"FileManager",
+		"Git blame",
+		"Git Conflict Resolver",
+		"HyperClick",
+		"Material Theme",
+		"Missing Palette Commands",
+		"Monocyanide Colorscheme",
+		"Monokai - Spacegray",
+		"Monokai++",
+		"Neon Color Scheme",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"ReIndent",
+		"Seti_UX",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Sync Settings",
+		"Syntax Highlighting for Sass",
+		"Theme - Cyanide",
+		"Theme - Seti Monokai",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}

@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	"lint_mode": "save",
+	"linters": {
+		"eslint": {
+			"selector": "text.html.vue, source.js.embedded.html, source.js - meta.attribute-with-value",
+      		"env": {"PATH":"/Users/vasco.silva/.nvm/versions/node/v10.16.0/bin/"}
+		}
+	}
+}
